@@ -1,6 +1,7 @@
 # Linux Server Configuration
 ## General information
 **Public IP :** `18.196.108.191`
+**ssh port :** 2200
 **Host Name** http://ec2-18-196-108-191.eu-central-1.compute.amazonaws.com
 
 
